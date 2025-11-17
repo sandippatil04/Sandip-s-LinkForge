@@ -8,72 +8,43 @@ Transform your ideas into scroll-stopping content — powered by Llama-3.3 model
 🔮 AI-Generated LinkedIn Posts
 
 Generate high-quality content based on:
-
 Prompt/topic
-
 Word count
-
 Tone (professional, friendly, casual, enthusiastic, authoritative)
-
 Template type (informative, casual, inspirational)
-
 🎭 Tone & Style Customization
-
 Fine-tuned control over output style for better personalization.
 
 🔣 Smart Hashtags Generator
-
 Automatically includes relevant hashtags to increase reach.
-
 😀 Emoji Enhancer
-
 Makes your posts more engaging and expressive.
-
 🔄 Multiple Variations
-
 Generate 1–3 variations of the same post for A/B testing.
-
 📊 Content Analysis
-
 Each post includes:
-
 Word count
-
 Character count
-
 Sentence count
 
 🖥️ Dual Interface
-
 Use either:
-
 Streamlit Web UI (Frontend)
-
 Flask REST API (Backend)
 
 🛠️ Tech Stack
 Frontend (UI)
-
 🌈 Streamlit
-
 Backend
-
 🔥 Flask REST API
-
 AI & LLM Frameworks
-
 🤖 LangChain
-
 ⚡ Groq Llama-3.3 70B (via ChatGroq)
-
 🧠 Prompt Engineering
 
 Utilities
-
 Python 3.10+
-
 Regex for analytics
-
 Environment variables for secrets
 
 📂 Project Structure
@@ -159,33 +130,21 @@ Final result displayed or returned via API
 🧠 Why I Built This
 
 LinkedIn engagement is becoming crucial for:
-
 Job seekers
-
 Creators
-
 Entrepreneurs
-
 Students & professionals
-
 But writing high-quality posts daily is hard.
 So I built LinkForge AI to automate content creation with production-level AI.
 
 🚀 Future Enhancements
-
 Twitter/X post generator mode
-
 Instagram caption generator
-
 Save posts to database (SQLite/MongoDB)
-
 User login system
-
 Keyword extraction
-
 SEO analyzer
-
 Scheduled posts
-
 Export to PDF feature
-Created with ❤️ by AbhiiiMan
+
+Created with ❤️ by Sandip Patil
